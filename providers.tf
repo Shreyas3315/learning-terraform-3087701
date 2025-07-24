@@ -4,7 +4,7 @@ provider "aws" {
   secret_key = var.aws_secret_key
 
 endpoints {
-    ec2 = "https://1d435ff793dc.ngrok-free.app"
+    ec2 = "https://951aacd78978.ngrok-free.app"
   }
 
   skip_credentials_validation = true
