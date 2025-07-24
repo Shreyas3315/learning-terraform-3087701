@@ -1,4 +1,4 @@
-resource "aws_instance" "web" {
+resource "aws_instance" "blog" {
   ami           = "ami-12345678"
   instance_type = "t3.nano"
 
